@@ -1,0 +1,7 @@
+include 'hospital'
+include 'insurance-contract-state'
+include 'insurance-common'
+include 'insurer'
+include 'server-common'
+include 'hospital-server'
+include 'insurer-server'
